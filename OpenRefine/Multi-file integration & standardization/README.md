@@ -15,8 +15,8 @@
 
 ### Screenshots:  
 - Customer name clustering and standardisation example  
-**Before**
+- **Before**
 <img width="464" height="267" alt="image" src="https://github.com/user-attachments/assets/cbc43cf0-c1c2-439c-9eac-7a5946e303ae" />
 
-**After**
+- **After**
 <img width="466" height="260" alt="image" src="https://github.com/user-attachments/assets/1a00d377-5288-45e0-8a15-6632a8e688c5" />
