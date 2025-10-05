@@ -5,8 +5,9 @@
 
 ---
 ## What I did
-- Used the same mini project from the [Cleaning messy data](./Cleaning-messy-data/)
+- Used the same mini project from the [Cleaning messy data](https://github.com/Shalom-saji-Samuel/Data_skills-showcase/tree/main/OpenRefine/Cleaning%20messy%20data)
 
 ---
+
 
 
