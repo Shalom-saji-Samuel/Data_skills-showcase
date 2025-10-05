@@ -1,0 +1,301 @@
+CustomerName,Product,Category,PurchaseDate,Phone,Price,Notes
+Jon,Laptop,Clothes,02-01-2021,(198) 862 7105,857.24, deliver 
+John,Lptop,Clothes,2021/02/01,669-161-6400,907.92,
+Alyce,Headphones,Hm,01/02/2021,520-462-7929,1116.06, deliver 
+Alice,Tabl,Eletronics,Feb 1 2021,838-152-5712,303.94,
+Alice,Tablet,Hm,02-01-2021,460-206-9313,1034.19, deliver 
+Jhn,Phon,Eletronics,2021/02/01,(772) 593 4674,855.98,
+Jon,Tabl,Sport,Feb 1 2021,458-965-7022,117.98, deliver 
+Robert,Phon,Eletronics,2021/02/01,(385) 687 4705,549.4,
+Jon,Tablet,Electronics,02-01-2021,965-674-1430,982.81,
+Robrt,Headphones,Sports,01/02/2021,773-949-5381,602.67, deliver 
+Bob,Phone,Clothes,02-01-2021,(379) 819 6062,810.47,
+John,Tablet,Sports,01/02/2021,459-106-3972,1059.65,
+John,Hedphones,Eletronics,2021-02-01,679-773-7566,641.98,!!urgent
+Jon,Tabl,Sports,Feb 1 2021,(858) 748 1502,484.84,
+Alice,Lptop,Electronics,2021-02-01,(643) 320 7163,316.62,
+Alice,Laptop,Clothes,01/02/2021,449-261-7062,830.0,
+Robert,Hedphones,Clothng,2021/02/01,432-895-2391,399.4,
+Robrt,Lptop,Eletronics,01/02/2021,259-261-1815,376.75,check warranty
+John,Lptop,Clothes,01/02/2021,378-553-7947,1293.43,!!urgent
+Robert,Phon,Sports,2021/02/01,552-524-5475,259.31,check warranty
+Alice,Tablet,Clothng,2021-02-01,(624) 216 6655,721.39,
+Robert,Phone,Home,Feb 1 2021,390-794-8972,133.55,
+Bob,Tabl,Clothes,01/02/2021,415-146-4612,648.38,
+Alice,Lptop,Home,01/02/2021,713-156-1125,653.94, deliver 
+Bbo,Phon,Sport,Feb 1 2021,(316) 885 3248,818.49,!!urgent
+Robrt,Tabl,Clothng,01/02/2021,396-435-2965,613.21, deliver 
+Alyce,Tablet,Clothng,Feb 1 2021,(864) 540 3878,419.74,
+John,Phone,Clothes,Feb 1 2021,(645) 820 4770,528.88,
+Jhn,Hedphones,Sport,Feb 1 2021,953-784-6802,164.65,
+Bob,Tablet,Sports,2021/02/01,(982) 859 1693,702.19,!!urgent
+Alise,Laptop,Hm,2021-02-01,570-179-6129,588.06,check warranty
+Alyce,Tablet,Eletronics,2021-02-01,687-514-7843,826.67,
+Jhn,Lptop,Sport,02-01-2021,(514) 121 6321,1252.64,
+Alice,Phone,Clothng,2021/02/01,(732) 571 6928,124.73,
+Alise,Tablet,Hm,02-01-2021,(964) 208 4986,596.89,
+Jon,Lptop,Clothng,2021-02-01,510-636-2288,927.21,
+Jon,Lptop,Clothes,2021-02-01,417-863-6562,107.34,check warranty
+Bob,Phone,Sports,2021-02-01,(897) 272 2251,155.54, deliver 
+Jon,Tablet,Electronics,01/02/2021,216-643-9355,1216.74,!!urgent
+Alise,Tablet,Clothng,02-01-2021,(894) 457 6752,902.0, deliver 
+Alise,Phon,Sports,2021/02/01,938-760-3419,1023.6, deliver 
+Robrt,Tabl,Home,02-01-2021,(249) 362 4232,364.67,
+Alyce,Phon,Clothng,2021-02-01,(256) 878 2234,352.89,
+John,Tablet,Hm,2021/02/01,(891) 743 9095,1365.2,check warranty
+Bbo,Hedphones,Sports,02-01-2021,677-878-8354,489.62,!!urgent
+Robert,Tablet,Sport,2021-02-01,678-758-6295,1368.04,
+Jon,Laptop,Sports,2021-02-01,742-423-3473,357.12, deliver 
+Bob,Lptop,Sport,2021/02/01,580-552-5961,325.53,
+Jon,Headphones,Sport,Feb 1 2021,705-157-6766,1125.14,!!urgent
+Robert,Tablet,Electronics,2021/02/01,417-572-8404,1132.97, deliver 
+Alyce,Laptop,Hm,Feb 1 2021,(477) 951 5703,1143.78,
+Robrt,Laptop,Eletronics,01/02/2021,(984) 975 2479,1375.94,
+Alise,Tabl,Hm,2021/02/01,619-493-8581,1058.66,check warranty
+Robrt,Phone,Clothes,Feb 1 2021,910-856-1672,1070.46,!!urgent
+Alice,Tablet,Clothng,02-01-2021,929-685-4084,625.12,!!urgent
+Jon,Phone,Hm,2021-02-01,587-613-3471,397.03,!!urgent
+John,Hedphones,Clothng,01/02/2021,561-205-6626,516.34, deliver 
+Alice,Headphones,Clothng,2021/02/01,186-616-3827,460.44,check warranty
+Alyce,Laptop,Clothng,Feb 1 2021,(824) 548 8199,726.06,
+Jon,Lptop,Electronics,02-01-2021,724-262-6962,990.65, deliver 
+Alice,Lptop,Eletronics,Feb 1 2021,389-496-7697,497.21,!!urgent
+Jon,Phone,Sport,2021/02/01,795-712-1857,571.48, deliver 
+Bob,Laptop,Hm,Feb 1 2021,762-442-2079,1330.08,
+Alyce,Tabl,Clothes,2021/02/01,671-794-7333,725.71, deliver 
+Bbo,Phone,Hm,Feb 1 2021,(841) 972 3463,1214.08, deliver 
+Alise,Headphones,Sport,2021-02-01,696-779-3317,1097.5,!!urgent
+Jhn,Phone,Sports,2021/02/01,417-771-7421,1154.36,
+Alise,Laptop,Clothng,2021/02/01,(825) 186 6072,514.34,!!urgent
+Alise,Tablet,Sports,01/02/2021,758-910-6381,344.53,
+Alice,Tabl,Clothes,2021-02-01,786-819-9624,503.74,
+Alyce,Laptop,Sports,2021/02/01,(786) 533 9331,116.29,
+Jon,Tabl,Sports,02-01-2021,471-416-3953,1302.92,!!urgent
+Robrt,Phon,Clothng,Feb 1 2021,449-884-8967,1124.82,
+Jhn,Phon,Sport,02-01-2021,(240) 258 2264,73.52,check warranty
+Robert,Lptop,Sport,Feb 1 2021,(907) 203 9317,852.3,check warranty
+Alice,Tabl,Sport,Feb 1 2021,955-856-9626,896.85,
+Jhn,Headphones,Hm,01/02/2021,(444) 997 3147,1094.02,check warranty
+Bbo,Phone,Eletronics,2021/02/01,257-266-3962,478.03,
+Bob,Phon,Hm,Feb 1 2021,889-739-3712,334.48,check warranty
+Alyce,Phone,Sports,01/02/2021,144-520-6968,383.53,!!urgent
+Robert,Phone,Eletronics,02-01-2021,343-554-5668,876.19,
+Alice,Headphones,Home,01/02/2021,902-559-4833,406.31, deliver 
+Alise,Laptop,Hm,02-01-2021,416-928-8684,848.43, deliver 
+John,Phone,Hm,2021/02/01,298-476-8218,1418.02,check warranty
+Alice,Tabl,Clothng,Feb 1 2021,388-896-7256,539.47, deliver 
+John,Headphones,Sport,2021-02-01,528-265-4271,1156.87,check warranty
+Alise,Phon,Sport,02-01-2021,241-993-5096,758.5,check warranty
+Bob,Tablet,Eletronics,Feb 1 2021,(592) 995 7081,1099.16, deliver 
+Alyce,Phone,Hm,2021-02-01,205-828-9452,1122.41, deliver 
+Jon,Lptop,Sport,2021-02-01,391-185-3626,718.2,
+Alice,Headphones,Hm,02-01-2021,(625) 250 8167,1112.52,
+Robrt,Laptop,Sports,Feb 1 2021,(327) 936 8391,560.66,check warranty
+Alise,Hedphones,Home,2021-02-01,127-524-1872,252.94, deliver 
+Alice,Phon,Sport,01/02/2021,482-341-7326,842.49,
+Bbo,Phon,Electronics,01/02/2021,483-329-1461,316.87, deliver 
+Bob,Hedphones,Home,Feb 1 2021,201-959-6493,1339.58, deliver 
+Bbo,Tabl,Sport,2021/02/01,240-139-5700,1485.97,
+Jhn,Tablet,Electronics,01/02/2021,583-812-3273,1437.99,check warranty
+Alyce,Phon,Electronics,02-01-2021,580-559-1086,809.72,check warranty
+Jhn,Phon,Sport,Feb 1 2021,119-362-4533,1266.65,!!urgent
+Alice,Laptop,Home,2021-02-01,661-844-9647,157.78,
+Robert,Phon,Clothng,01/02/2021,894-395-4893,1236.09,
+Robert,Headphones,Eletronics,Feb 1 2021,148-344-7878,120.35,
+Alyce,Tabl,Electronics,Feb 1 2021,737-568-2029,59.26,
+Robrt,Tablet,Sport,2021/02/01,(611) 711 9782,249.36,check warranty
+Bob,Lptop,Clothng,2021-02-01,(627) 688 4963,964.52,!!urgent
+Robrt,Tablet,Clothng,2021-02-01,398-539-1025,148.55,!!urgent
+Bob,Tabl,Clothng,2021-02-01,346-684-7825,268.99,check warranty
+Alise,Headphones,Sports,02-01-2021,(784) 187 9576,367.14, deliver 
+Alice,Tabl,Home,Feb 1 2021,169-638-9914,711.21,
+Jhn,Laptop,Electronics,02-01-2021,619-667-1333,137.65,!!urgent
+Robert,Lptop,Sport,02-01-2021,581-144-7338,974.71, deliver 
+Bbo,Tablet,Clothng,Feb 1 2021,359-865-1266,1404.16,
+Jon,Phone,Eletronics,2021-02-01,169-453-4950,1373.49,!!urgent
+John,Tablet,Eletronics,Feb 1 2021,743-206-6447,1005.96,
+Jon,Laptop,Clothes,2021/02/01,(460) 659 6546,72.81, deliver 
+Jhn,Lptop,Clothng,Feb 1 2021,279-950-8612,821.71,
+Jhn,Headphones,Eletronics,Feb 1 2021,590-746-3986,646.44, deliver 
+Bob,Tabl,Electronics,01/02/2021,164-833-8498,74.25,
+Robrt,Tabl,Home,2021/02/01,(306) 144 4268,1097.18,
+Jon,Headphones,Home,01/02/2021,423-417-9444,826.82,!!urgent
+Bob,Lptop,Sport,2021-02-01,934-656-8756,465.7,!!urgent
+Bob,Headphones,Eletronics,2021-02-01,(871) 762 4131,778.21, deliver 
+Robrt,Phon,Hm,2021/02/01,(982) 899 1783,1061.9,
+Bbo,Tablet,Eletronics,02-01-2021,439-379-3039,674.33,check warranty
+Robert,Laptop,Clothes,Feb 1 2021,547-509-8204,1412.58,!!urgent
+Alyce,Headphones,Hm,01/02/2021,495-447-4060,309.94,
+Robert,Laptop,Clothes,2021/02/01,609-476-9507,1381.17,
+John,Phon,Clothng,01/02/2021,(184) 844 7955,810.36,
+Jon,Tabl,Clothng,Feb 1 2021,(716) 942 3956,399.4,check warranty
+Robert,Headphones,Sport,02-01-2021,428-205-2311,948.68,!!urgent
+Alyce,Lptop,Clothes,01/02/2021,402-413-8305,416.01,
+Alise,Tabl,Sport,2021/02/01,536-270-8272,563.94,check warranty
+Jon,Tabl,Electronics,Feb 1 2021,143-844-6776,1202.66,!!urgent
+Alyce,Lptop,Eletronics,Feb 1 2021,545-381-1939,164.58,
+Bob,Tablet,Hm,02-01-2021,(752) 515 6952,1440.98,check warranty
+Jhn,Tablet,Hm,2021/02/01,867-795-3621,715.55,!!urgent
+Bbo,Headphones,Sport,Feb 1 2021,246-969-8179,402.65,check warranty
+John,Tabl,Eletronics,01/02/2021,(168) 341 7001,1060.99,
+Alyce,Headphones,Home,2021-02-01,680-133-3513,484.96, deliver 
+Robert,Tablet,Hm,2021/02/01,479-480-8273,1250.69, deliver 
+Jhn,Phone,Home,01/02/2021,687-240-9674,166.89,
+Robert,Phon,Eletronics,02-01-2021,421-765-5566,1487.93,check warranty
+Jon,Headphones,Home,02-01-2021,(216) 126 4048,992.35,
+Alyce,Headphones,Electronics,Feb 1 2021,496-675-2929,95.94, deliver 
+Robert,Phone,Clothes,02-01-2021,(366) 820 8311,637.65, deliver 
+Robrt,Tablet,Clothng,2021-02-01,(726) 392 9047,596.9,check warranty
+Alice,Headphones,Clothng,01/02/2021,(238) 973 2213,740.21, deliver 
+Jhn,Laptop,Sport,2021/02/01,830-555-2438,973.28,
+Alise,Tablet,Electronics,Feb 1 2021,965-427-6692,1069.13,check warranty
+Jhn,Tablet,Hm,2021/02/01,663-655-5757,169.89,
+Robert,Phon,Sport,01/02/2021,971-261-3852,1275.73,check warranty
+Robert,Headphones,Sport,2021-02-01,620-329-2988,985.12, deliver 
+John,Tabl,Clothng,01/02/2021,911-242-4878,530.34,!!urgent
+Robrt,Hedphones,Eletronics,01/02/2021,126-469-7044,1467.13,check warranty
+Alise,Hedphones,Hm,Feb 1 2021,664-232-2412,1462.07,check warranty
+Bbo,Hedphones,Sport,2021/02/01,(507) 834 8842,1347.45,!!urgent
+John,Phon,Hm,01/02/2021,887-519-2208,1382.77, deliver 
+Jon,Hedphones,Clothes,01/02/2021,(424) 757 2215,383.16,
+Alise,Phone,Eletronics,2021-02-01,796-629-6644,1356.85,
+Alyce,Lptop,Hm,02-01-2021,(948) 898 3981,1053.82,!!urgent
+Alice,Tablet,Home,2021-02-01,232-543-9238,871.84,
+John,Tabl,Sport,2021/02/01,156-951-3034,443.09, deliver 
+Alice,Lptop,Home,2021/02/01,411-268-3653,1390.03,check warranty
+Robrt,Phon,Eletronics,Feb 1 2021,826-330-6669,1042.42,check warranty
+Jon,Tablet,Electronics,02-01-2021,631-390-2292,456.54, deliver 
+Jon,Phon,Home,2021/02/01,(750) 664 5496,837.39,
+Bbo,Phon,Sport,02-01-2021,(410) 729 9740,1004.26,
+Jon,Phone,Sport,2021-02-01,(756) 272 3526,310.06, deliver 
+Robert,Laptop,Clothng,2021/02/01,(739) 837 6531,1283.12, deliver 
+Jhn,Laptop,Eletronics,01/02/2021,677-142-1464,72.7, deliver 
+Jhn,Phon,Clothng,2021/02/01,(756) 889 5336,350.38, deliver 
+Bbo,Hedphones,Sport,02-01-2021,885-685-7825,259.08, deliver 
+Robert,Lptop,Clothes,2021/02/01,131-609-9938,1240.0, deliver 
+Jhn,Hedphones,Sport,Feb 1 2021,(409) 594 5012,1240.31,check warranty
+Alyce,Headphones,Clothng,01/02/2021,801-515-5873,1396.87,
+Robert,Phon,Clothng,Feb 1 2021,805-161-3589,483.95,
+Robrt,Headphones,Eletronics,2021-02-01,595-575-4342,867.74,
+Bob,Hedphones,Electronics,2021/02/01,247-420-6231,871.71,check warranty
+Alice,Headphones,Clothes,2021/02/01,981-453-7532,1281.69,!!urgent
+Robert,Phon,Sports,2021-02-01,(479) 627 2739,1031.7,
+Alice,Phone,Sport,Feb 1 2021,577-225-5382,833.82,!!urgent
+Alyce,Laptop,Electronics,01/02/2021,244-199-1829,606.58,check warranty
+Bob,Lptop,Eletronics,Feb 1 2021,(493) 984 7850,1122.63,
+Alise,Headphones,Hm,02-01-2021,(986) 263 6364,1196.22,!!urgent
+Bbo,Phon,Electronics,Feb 1 2021,838-420-4110,1049.5,check warranty
+Robert,Phone,Sport,01/02/2021,610-627-8648,163.72, deliver 
+Bbo,Hedphones,Electronics,2021/02/01,415-609-1379,1130.91,
+Jon,Laptop,Home,Feb 1 2021,(502) 617 8491,551.5, deliver 
+Alice,Phon,Clothng,2021-02-01,320-697-6781,191.64,
+Alice,Lptop,Clothng,01/02/2021,(388) 606 8710,386.61,
+Jon,Hedphones,Sport,2021/02/01,(108) 967 2761,160.23,
+Alise,Phone,Home,01/02/2021,370-844-6992,927.49,
+John,Hedphones,Clothes,2021-02-01,474-146-7563,940.1,
+Robrt,Tabl,Clothng,02-01-2021,(675) 299 6939,913.63,!!urgent
+Robert,Hedphones,Eletronics,01/02/2021,175-495-9261,1454.93,
+Alice,Headphones,Clothng,01/02/2021,663-386-2946,523.25,!!urgent
+Robrt,Hedphones,Sports,Feb 1 2021,(199) 503 7114,969.48,
+Alice,Phone,Clothes,2021-02-01,447-671-6990,1186.14,
+John,Hedphones,Sports,2021-02-01,303-716-9341,703.3, deliver 
+Jon,Hedphones,Sports,02-01-2021,141-146-1637,380.8,
+John,Tablet,Eletronics,2021-02-01,(441) 923 8761,851.9,check warranty
+Alice,Phon,Home,01/02/2021,252-720-9446,594.37, deliver 
+Jon,Tablet,Sports,02-01-2021,(727) 426 3662,319.32,
+John,Hedphones,Clothes,2021-02-01,731-857-5902,899.52,check warranty
+Alise,Phon,Clothng,02-01-2021,619-948-9351,601.11,!!urgent
+Jon,Tablet,Sport,2021-02-01,825-676-5911,1169.64,
+Robert,Hedphones,Clothes,2021-02-01,117-477-6427,478.3, deliver 
+Alice,Lptop,Electronics,Feb 1 2021,526-697-6040,407.35,!!urgent
+Alyce,Tablet,Clothng,2021-02-01,842-993-1436,156.58,!!urgent
+Bbo,Phon,Eletronics,02-01-2021,371-771-4728,438.56,
+Alice,Tablet,Sports,01/02/2021,697-591-3793,601.0, deliver 
+Robert,Tabl,Sport,Feb 1 2021,838-734-7229,1186.64,
+Jhn,Tabl,Sports,2021-02-01,(797) 348 1517,273.7,check warranty
+Robrt,Lptop,Eletronics,2021-02-01,817-212-4125,614.95,check warranty
+Robrt,Phone,Clothes,02-01-2021,(421) 528 3481,573.02,
+Bbo,Phone,Electronics,Feb 1 2021,308-520-9221,182.7,!!urgent
+Alice,Phon,Clothng,2021-02-01,582-993-2020,1417.29,
+Bbo,Headphones,Clothes,01/02/2021,631-312-6325,694.87, deliver 
+Bob,Phone,Electronics,01/02/2021,589-638-7173,1153.95,check warranty
+Alice,Phon,Hm,2021-02-01,277-570-9734,198.24,
+Jon,Lptop,Sports,01/02/2021,462-792-5331,176.58,check warranty
+Jon,Headphones,Clothng,Feb 1 2021,296-352-5571,674.92,check warranty
+Bob,Headphones,Clothng,2021-02-01,330-404-5735,857.63,check warranty
+Alise,Tabl,Electronics,02-01-2021,806-821-9011,793.04,
+Bob,Hedphones,Hm,Feb 1 2021,457-673-5480,199.77,
+Bob,Headphones,Sport,01/02/2021,(687) 792 9899,179.95,!!urgent
+Bbo,Laptop,Home,2021-02-01,504-938-6654,853.62,
+John,Phon,Sport,Feb 1 2021,923-249-5758,915.54,!!urgent
+Jon,Headphones,Clothng,01/02/2021,(831) 180 6674,1187.44,
+John,Headphones,Clothng,2021-02-01,771-362-8849,1302.39,
+Bob,Laptop,Eletronics,2021/02/01,(947) 651 5442,67.89,check warranty
+Alise,Headphones,Electronics,02-01-2021,812-378-3249,650.02,!!urgent
+Jon,Hedphones,Hm,01/02/2021,(858) 700 4920,1179.8,!!urgent
+Alice,Laptop,Home,01/02/2021,(785) 643 4697,1101.02,!!urgent
+Alice,Tabl,Sport,2021/02/01,153-202-7771,861.33,
+Alice,Tablet,Electronics,2021/02/01,583-202-3252,1489.46,!!urgent
+Robert,Headphones,Clothes,Feb 1 2021,(663) 261 7666,401.98,
+Bbo,Headphones,Eletronics,02-01-2021,999-587-8822,805.6,
+Jhn,Phon,Hm,02-01-2021,874-394-6262,1043.71,check warranty
+Bob,Hedphones,Eletronics,01/02/2021,(160) 887 2465,295.78, deliver 
+Jhn,Phon,Clothng,2021/02/01,337-647-1611,439.93,
+Alyce,Tablet,Eletronics,02-01-2021,279-527-3880,439.19,!!urgent
+Bbo,Headphones,Home,2021-02-01,137-956-7504,261.61,check warranty
+Alice,Hedphones,Clothng,02-01-2021,290-866-5742,292.45,check warranty
+Jon,Laptop,Sport,01/02/2021,109-405-2758,450.14,check warranty
+Bbo,Headphones,Sport,02-01-2021,443-391-8444,484.64,check warranty
+Robert,Tabl,Clothes,Feb 1 2021,656-636-9092,1184.87,!!urgent
+Jon,Headphones,Clothng,2021/02/01,237-971-9261,573.63,check warranty
+John,Phone,Clothng,01/02/2021,297-928-2845,1419.12, deliver 
+Robert,Hedphones,Hm,01/02/2021,848-569-5215,1095.3, deliver 
+John,Phone,Clothng,2021/02/01,114-854-6523,768.91,check warranty
+Jon,Laptop,Home,2021/02/01,681-790-4164,944.17,
+Alice,Headphones,Clothes,2021/02/01,(976) 754 7643,713.9,!!urgent
+Jhn,Laptop,Hm,01/02/2021,627-435-2421,246.46, deliver 
+Bob,Lptop,Home,2021/02/01,197-289-3303,59.81, deliver 
+Bbo,Headphones,Eletronics,2021/02/01,354-106-5272,623.75, deliver 
+Bbo,Phone,Sport,01/02/2021,557-871-5374,1270.34,
+Alice,Hedphones,Clothes,01/02/2021,409-696-1187,600.84,
+Bob,Phone,Sports,Feb 1 2021,(468) 809 4871,1300.19, deliver 
+John,Laptop,Sport,02-01-2021,(221) 576 6026,688.32,
+Jhn,Tablet,Electronics,2021-02-01,(802) 614 6095,674.39,!!urgent
+Bob,Headphones,Sport,01/02/2021,754-402-7021,1244.13,!!urgent
+John,Tabl,Sport,2021-02-01,324-236-8834,994.0, deliver 
+Bob,Phon,Clothng,Feb 1 2021,(865) 720 7121,911.87, deliver 
+Alyce,Hedphones,Home,02-01-2021,662-582-9806,485.63,!!urgent
+Bbo,Tabl,Clothng,02-01-2021,945-323-5054,924.66,
+Alyce,Tabl,Clothng,02-01-2021,710-994-2341,1058.17,
+Bob,Headphones,Sports,Feb 1 2021,640-820-6927,744.56,
+Robert,Tablet,Sports,2021/02/01,(677) 214 2011,307.57, deliver 
+Bbo,Headphones,Clothes,02-01-2021,617-307-9792,627.45,!!urgent
+Jhn,Tablet,Clothng,02-01-2021,(435) 974 9525,512.75,
+Alice,Lptop,Sports,Feb 1 2021,796-310-9008,1115.57,
+Alyce,Hedphones,Hm,2021/02/01,(622) 556 1911,967.71, deliver 
+Alice,Laptop,Hm,02-01-2021,625-525-8484,1453.26,check warranty
+John,Laptop,Clothes,02-01-2021,672-573-6049,1183.86, deliver 
+Robrt,Tabl,Hm,2021/02/01,505-360-1049,522.54,check warranty
+Robert,Phon,Clothes,01/02/2021,692-174-1742,456.44, deliver 
+John,Lptop,Electronics,01/02/2021,817-165-9866,1189.51,!!urgent
+Alise,Laptop,Sports,02-01-2021,170-583-1519,579.27,!!urgent
+John,Laptop,Clothng,2021-02-01,(284) 887 3218,1401.5,!!urgent
+John,Phon,Clothes,2021/02/01,846-761-7887,339.71,!!urgent
+Robrt,Phon,Clothes,2021/02/01,491-559-7184,1496.03,
+Bbo,Laptop,Home,2021-02-01,799-777-9835,310.89,
+Robert,Phone,Clothng,2021/02/01,(980) 456 2943,1163.05,check warranty
+Robert,Phon,Electronics,Feb 1 2021,(650) 502 9664,89.03,
+Jhn,Phone,Home,2021/02/01,(328) 954 1056,1104.46, deliver 
+John,Hedphones,Sports,2021/02/01,405-574-9920,1417.31,!!urgent
+Robert,Lptop,Eletronics,2021/02/01,488-943-4762,353.99,
+Jon,Phon,Clothng,01/02/2021,(454) 258 5516,1206.64,
+Jhn,Hedphones,Eletronics,Feb 1 2021,(996) 842 2848,1255.36,
+Jon,Tablet,Clothng,2021/02/01,(776) 529 1256,150.28, deliver 
+Robrt,Tabl,Electronics,Feb 1 2021,(168) 203 1550,1279.29,
+Jon,Phone,Home,Feb 1 2021,788-820-1797,1202.82,
+Alice,Lptop,Clothes,Feb 1 2021,(145) 511 8191,1025.82,check warranty
+Bob,Phone,Home,2021-02-01,(322) 872 1924,251.81, deliver 
+Jon,Tablet,Eletronics,2021/02/01,(396) 339 6224,489.11, deliver 
+Robrt,Lptop,Clothng,01/02/2021,891-788-6253,416.39,
+Alice,Laptop,Sport,01/02/2021,(997) 246 9540,273.51, deliver 
+Robrt,Tablet,Sports,01/02/2021,(407) 381 1998,663.54,check warranty

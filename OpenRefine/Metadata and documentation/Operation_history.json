@@ -1,0 +1,620 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Headphones",
+          "Hedphones"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Headphones"
+      }
+    ],
+    "description": "Mass edit cells in column Product"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Category",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Eletronics",
+          "Electronics"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Electronics"
+      }
+    ],
+    "description": "Mass edit cells in column Category"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Laptop"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laptop"
+      }
+    ],
+    "description": "Mass edit cells in column Product"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "CustomerName",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column CustomerName using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column Product using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Category",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column Category using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "PurchaseDate",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column PurchaseDate using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Phone",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column Phone using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Price",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column Price using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Notes",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 0,
+    "description": "Text transform on cells in column Notes using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Product",
+          "columnName": "Product",
+          "query": "L",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value.replace(\"Lptop\",\"Laptop\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Product using expression value.replace(\"Lptop\",\"Laptop\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Product",
+          "expression": "value",
+          "columnName": "Product",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Phon",
+                "l": "Phon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "grel:value.replace(Phone)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Product using expression grel:value.replace(Phone)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Product",
+          "expression": "value",
+          "columnName": "Product",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Phon",
+                "l": "Phon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value.replace(\"Phon\",\"Phone\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Product using expression value.replace(\"Phon\",\"Phone\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Product",
+          "expression": "value",
+          "columnName": "Product",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tabl",
+                "l": "Tabl"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value.replace(\"Tabl\",\"Tablet\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Product using expression value.replace(\"Tabl\",\"Tablet\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Category",
+          "expression": "value",
+          "columnName": "Category",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Clothng",
+                "l": "Clothng"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Category",
+    "expression": "value.replace(\"Clothng\",\"Clothes\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Category using expression value.replace(\"Clothng\",\"Clothes\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Category",
+          "expression": "value",
+          "columnName": "Category",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Hm",
+                "l": "Hm"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Category",
+    "expression": "value.replace(\"Hm\",\"Home\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Category using expression value.replace(\"Hm\",\"Home\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Category",
+          "expression": "value",
+          "columnName": "Category",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Sport",
+                "l": "Sport"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Category",
+    "expression": "value.replace(\"Sport\",\"Sports\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Category using expression value.replace(\"Sport\",\"Sports\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Price",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Price using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Phone",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Phone using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "PurchaseDate",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column PurchaseDate using expression value.toDate()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "CustomerName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Alice",
+          "Alyce",
+          "Alise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Alice"
+      },
+      {
+        "from": [
+          "Jon",
+          "John",
+          "Jhn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "John"
+      },
+      {
+        "from": [
+          "Robert",
+          "Robrt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Robert"
+      }
+    ],
+    "description": "Mass edit cells in column CustomerName"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "CustomerName",
+    "expression": "value.replace(\"Bbo\",\"Bob\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column CustomerName using expression value.replace(\"Bbo\",\"Bob\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Product",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Product using expression value.toTitlecase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Phone",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Phone using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Phone",
+    "expression": "grel:value.replace(\"(\",\"\").replace(\")\",\"\").replace(\"-\",\" \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Phone using expression grel:value.replace(\"(\",\"\").replace(\")\",\"\").replace(\"-\",\" \")"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Phone",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": " ",
+    "regex": false,
+    "maxColumns": 2,
+    "description": "Split column Phone by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Phone 1",
+    "newColumnName": "Area code",
+    "description": "Rename column Phone 1 to Area code"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Phone 2",
+    "newColumnName": "Number",
+    "description": "Rename column Phone 2 to Number"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Notes",
+    "description": "Remove column Notes"
+  }
+]
