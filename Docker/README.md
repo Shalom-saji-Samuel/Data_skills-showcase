@@ -5,7 +5,10 @@
 - Docker images are lighter , compared to virtual machine images.
 
 ---
+## How to run docker in vscode?
+---
 ## How to pull and run images?
 - Open docker in terminal , Then type in docker run command with the name of the image you are trying to pull , this can be taken from docker hub. 
 The run command downloads the image and starts running it aswell.
 - Use command "docker ps" to see if there are any containers running.
+
