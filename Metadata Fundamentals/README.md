@@ -8,13 +8,13 @@
 - It is the data about data , this includes technical , operational and business metadatas. 
 
 
-** Technical Metadata **
+**Technical Metadata**
 - This involves table names , structures , columns , schema etc 
 
-** Business Metadata ** 
+**Business Metadata** 
 - This type of metadata is used to show which department or who was the one who made the data/analytics .
 
-** Operational Metadata ** 
+**Operational Metadata** 
 - Operational metadata shows all the operations being done on the data (such as "Updated daily at 6PM" etc )
 
 ---
