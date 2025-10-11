@@ -1,6 +1,6 @@
 # Taxonomy fundamentals
 ## Objective 
-- showcase learning about taxonomy
+- Showcase learning about taxonomy
 
 ---
 ## What is Data taxonomy ?
@@ -15,3 +15,4 @@
 ## Why Data taxonomy important ?
 - It makes a company more productive as employees can easily find the dataset they need by following the taxonomy structure provided.
 - Keeps data organized and understandable.
+
