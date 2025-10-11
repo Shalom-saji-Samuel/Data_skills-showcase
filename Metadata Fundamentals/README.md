@@ -1,4 +1,4 @@
-# Metadata lessons learned 
+# Metadata fundamentals
 --- 
 ## Objective :
 - Showcase what I have learned about metadata 
