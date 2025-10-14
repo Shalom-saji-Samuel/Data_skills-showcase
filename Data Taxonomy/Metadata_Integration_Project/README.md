@@ -1,6 +1,6 @@
 # Metadata Integration & Governance (Simulated)
 ## Objective 
-- To show that govern data with metadata 
+- To show that I can govern data with metadata tools
 --- 
 ## What I did ?
 - I made a data catalog and metadata terms glossary
@@ -8,8 +8,10 @@
 ---
 ## Explainations 
 - Data lineage (the diagram shown in the screenshot) is the way of showing the story of the data .
-- I have explained what metadata is in this (mini project)
+- I have explained what metadata is in this [mini explaination](https://github.com/Shalom-saji-Samuel/Data_skills-showcase/tree/main/Metadata%20Fundamentals)
+---
 ## Screenshot of Data lineage
  <img width="853" height="646" alt="image" src="https://github.com/user-attachments/assets/5c76c2f4-387d-4e44-8285-5d1e1df01b87" />
+
 
 
